@@ -1,1 +1,5 @@
-# C-DSA-and-IOT
+C
+C++
+OOPs
+STL
+DSA
