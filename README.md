@@ -1,5 +1,5 @@
-C
-C++
-OOPs
-STL
-DSA
+# C
+# C++
+# OOPs
+# STL
+# DSA
